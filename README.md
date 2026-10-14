@@ -1,5 +1,7 @@
 # Task Manager
 
+**Live demo:** https://task-manager-godspeed630.vercel.app
+
 A clean, simple task manager built with **Next.js 15**, **React 19**, **TypeScript**, and **Tailwind CSS**. Add tasks with priorities, mark them complete, edit inline, filter the list, and clear finished tasks — everything persists in the browser via `localStorage`.
 
 ## Features
